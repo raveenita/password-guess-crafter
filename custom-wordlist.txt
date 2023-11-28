@@ -1,4 +1,7 @@
-<panteraNegra>123
-123<panteraNegra>
-<panteraNegra>12345678@
-<panteraNegra>@123
+
+<NAME_INFO>123
+123<NAME_INFO>
+jack12345678@
+jack@123
+
+<NAME_INFO>
